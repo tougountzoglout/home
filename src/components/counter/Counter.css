@@ -1,0 +1,50 @@
+.Counter{
+   
+    margin: 10%;
+    /* width: 70%; */
+    padding: 10px;
+
+}
+.Counter span {
+    /* float: left;
+    clear: both; */
+    padding-bottom: 2px;
+    width: 100px;
+  } 
+#one div {
+
+   
+    float: left;
+  
+}
+#two div {
+
+   
+    float: left;
+  
+}
+
+#three div {
+
+   
+    float: left;
+  
+}
+
+.CounterButton button {
+
+    padding: 3%;
+    width: 3em;
+    margin: 2px;
+    background-color: chartreuse;
+    text-align: center;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+
+}
+
+#result{
+
+    padding-top: 5%;
+}
